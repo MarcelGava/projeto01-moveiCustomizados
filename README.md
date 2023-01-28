@@ -5,7 +5,7 @@
 O projeto Móveis Customizados foi desenvolvido durante o stage 02 no Explorer da Rocketseat. <br/>
 
 <p align="center">
-  <img alt="projeto habits" src=".github/preview.jpg" width="100%">
+  <img alt="projeto Moveis customizados" src="https://marcelgava.github.io/projeto01-moveiCustomizados/" width="100%">
 </p>
 
 ## 🚀 Tecnologias
